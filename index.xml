@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAP</title>
-    <link>http://summerandpine.github.io/</link>
+    <link>https://summerandpine.github.io/</link>
     <description>Recent content on SAP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 21:23:17 +0800</lastBuildDate>
     
-	<atom:link href="http://summerandpine.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://summerandpine.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cake</title>
-      <link>http://summerandpine.github.io/show/cake/</link>
+      <link>https://summerandpine.github.io/show/cake/</link>
       <pubDate>Sat, 10 Feb 2018 21:23:17 +0800</pubDate>
       
-      <guid>http://summerandpine.github.io/show/cake/</guid>
+      <guid>https://summerandpine.github.io/show/cake/</guid>
       <description> yummy! </description>
     </item>
     
